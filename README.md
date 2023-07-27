@@ -1,6 +1,5 @@
-# PowerDNS Builder 
+# GunDNS Builder 
 
-[![Build Status](https://travis-ci.org/PowerDNS/pdns-builder.svg?branch=master)](https://travis-ci.org/PowerDNS/pdns-builder)
 
 A reusable Docker based distribution package builder.
 
